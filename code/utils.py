@@ -1,4 +1,6 @@
 from typing import List, Tuple
+import sklearn_crfsuite
+
 
 
 def read_tsv(name: str):
@@ -31,7 +33,7 @@ def transform_tsv2BIO(name: str) -> Tuple[List[str], List[str]]:
 	return words, tags
 
 
-def clean_tags(tags: List[str]) -> List[str]:
+def del_not_org_tags(tags: List[str]) -> List[str]:
 	n_tags = []
 	tag: str
 	for tag in tags:
@@ -66,6 +68,7 @@ class SentenceGetter:
 		ret2 = [t2.extend(ls) for ls in part2][0]
 
 		return t1, t2
+
 
 
 if __name__ == '__main__':
