@@ -47,15 +47,10 @@ def sent2features(sent: sentence):
 
 
 if __name__ == '__main__':
-	from itertools import chain
-	import nltk
-	import sklearn
 	import scipy.stats
 	from sklearn.metrics import make_scorer, f1_score
-	from sklearn.model_selection import cross_val_score
 	from sklearn.model_selection import RandomizedSearchCV
 	import sklearn_crfsuite
-	from sklearn_crfsuite import metrics
 	import utils
 
 
@@ -81,7 +76,7 @@ if __name__ == '__main__':
 	f1_scorer = make_scorer(f1_score, average='weighted')
 
 	rs = RandomizedSearchCV(crf, params_space, cv=3, verbose=1,
-							n_jobs=4, n_iter=50, scoring=f1_scorer)
+							n_jobs=4, n_iter=200, scoring=f1_scorer)
 	rs.fit(w_train_f, t_train)
 
 	print('best params:', rs.best_params_)
@@ -89,14 +84,14 @@ if __name__ == '__main__':
 	print('model size: {:0.2f}M'.format(rs.best_estimator_.size_ / 1000000))
 
 	crf = rs.best_estimator_
-	t_pred = crf.predict(w_test_f)
 
 	t_pred2 = crf.predict(sent2features(['el', 'Ministerio', 'del', 'Interior',
 										  'y', 'la', 'Unión', 'de', 'Jovenes',
-										  'Capitalistas', 'de', 'Chile', 'participan',
-										  'en', 'la', 'recogida', 'de',
-										  'materias', 'primas', '.']))
-	# print(t_pred2)
+										  'Capitalistas', 'de', 'Chile',
+										  'participan', 'en', 'la', 'recogida',
+										  'de', 'materias', 'primas', '.']))
+	print(t_pred2)
 	# todo predecir localizaciones tambien
 	# todo instalar word2vec para tirar los embeddings en crf y en redes
 	#  bidirectional lstm con crf
+	# todo falta evaluar el modelo
