@@ -1,5 +1,9 @@
+import joblib
 import sklearn.base
+from sklearn.metrics import f1_score, make_scorer
+from sklearn.model_selection import learning_curve
 
+import utils
 
 
 class MemoryTagger(sklearn.base.BaseEstimator):
@@ -30,3 +34,25 @@ class MemoryTagger(sklearn.base.BaseEstimator):
 		'''
 		return [self.memory.get(x, 'O') for x in X]
 
+
+
+words, tags = utils.transform_tsv2BIO('corpus.tsv')
+# words, tags = joblib.load('Corpus')
+
+all_words = list(set(words))
+all_tags = list(set(tags))
+
+n_words = len(all_words)
+n_tags = len(all_tags)
+
+sent_get = utils.SentenceGetter(words=words)
+w_train, w_test = sent_get.split(-20)
+t_train, t_test = tags[:len(w_train)], tags[len(w_train):]
+
+
+model = MemoryTagger()
+model.fit(w_train, t_train)
+
+pred = model.predict(w_test)
+
+print(f1_score(t_test, pred, average='weighted'))
