@@ -1,4 +1,4 @@
-from typing import List, Tuple
+from typing import List, Tuple, Dict, Any
 import sklearn_crfsuite
 
 
@@ -43,15 +43,40 @@ def del_not_org_tags(tags: List[str]) -> List[str]:
 	return n_tags
 
 
+def to_categories(a_list: List[str]) -> List[int]:
+	cats = {}
+	index = 0
+	other_list = []
+	for tag in a_list:
+		try:
+			other_list.append(cats[tag])
+		except:
+			cats[tag] = index
+			index += 1
+			other_list.append(cats[tag])
+
+	return other_list
+
+
+def to_feature_array(feature_names: List[str], feature_vectors: List[Dict[str, Any]]):
+
+	new_features = []
+	for vector in feature_vectors:
+		new_features.append([vector.get(name, 0) for name in feature_names])
+
+	return new_features
+
+
+
 class SentenceGetter:
 
 	def __init__(self, **kwargs):
 		if kwargs.get('words', False):
-			self.text = self._to_sentences(kwargs['words'])
+			self.text = self.to_sentences(kwargs['words'])
 		else: raise Exception('incorrect arguments')
 
 	@staticmethod
-	def _to_sentences(sents: List[str]) -> List[List[str]]:
+	def to_sentences(sents: List[str]) -> List[List[str]]:
 		resp = []
 		sents_cop = sents
 		for times in range(sents.count('.')):
@@ -68,6 +93,19 @@ class SentenceGetter:
 		ret2 = [t2.extend(ls) for ls in part2][0]
 
 		return t1, t2
+
+
+def to_tags(vectors, tags_index: dict):
+	vektor = list(vectors)
+	tags = []
+	index2tags = {value: key for key, value in tags_index.items()}
+	for sentence in vektor:
+		sent = []
+		for vec in sentence:
+			sent.append(index2tags[list(vec).index(1.0)])
+		tags.append(sent)
+
+	return tags
 
 
 
