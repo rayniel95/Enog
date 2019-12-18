@@ -24,7 +24,7 @@ def make_model():
 	model.add(crf)
 
 	model.compile('adam', loss=crf_loss, metrics=[crf_viterbi_accuracy])
-
+	return model
 
 # words, tags = utils.transform_tsv2BIO('corpus.tsv')
 words, tags = joblib.load('Corpus2')
@@ -71,9 +71,7 @@ print('pppppppppppppppp')
 pred2 = utils.to_tags(pred, tag2dix)
 y_te2 = utils.to_tags(y_te, tag2dix)
 
-
-
-print(precision_score(y_te3, pred3, average='weighted'))
+print(precision_score(y_te2, pred2, average='weighted'))
 # f1: 94
 # precision: 98
 hist = pd.DataFrame(history.history)
