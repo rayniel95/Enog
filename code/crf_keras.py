@@ -11,13 +11,23 @@ import utils
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_score, precision_score
 
 
+
+def make_model():
+	model = Sequential()
+	model.add(Embedding(input_dim=n_words + 1, output_dim=20,
+						input_length=max_len))
+
+	crf = CRF(n_tags)
+	model.add(crf)
+
+	model.compile('adam', loss=crf_loss, metrics=[crf_viterbi_accuracy])
 
 
 # words, tags = utils.transform_tsv2BIO('corpus.tsv')
-words, tags = joblib.load('Corpus')
+words, tags = joblib.load('Corpus2')
 
 all_words = list(set(words))
 all_tags = list(set(tags))
@@ -50,14 +60,7 @@ y = [to_categorical(i, num_classes=n_tags) for i in y]
 x_tr, x_te, y_tr, y_te = train_test_split(x,y,test_size=0.1)
 
 
-model = Sequential()
-model.add(Embedding(input_dim=n_words+1, output_dim=20, input_length=max_len))
-
-crf = CRF(n_tags)
-model.add(crf)
-
-model.compile('adam', loss=crf_loss, metrics=[crf_viterbi_accuracy])
-
+model = make_model()
 
 history = model.fit(x_tr, np.array(y_tr), batch_size=32, epochs=20,
 					validation_split=0.1, verbose=1)
@@ -68,17 +71,11 @@ print('pppppppppppppppp')
 pred2 = utils.to_tags(pred, tag2dix)
 y_te2 = utils.to_tags(y_te, tag2dix)
 
-pred3 = []
-y_te3 = []
 
-for el in pred2:
-	pred3.extend(el)
 
-for el in y_te2:
-	y_te3.extend(el)
-
-print(f1_score(y_te3, pred3, average='weighted'))
-
+print(precision_score(y_te3, pred3, average='weighted'))
+# f1: 94
+# precision: 98
 hist = pd.DataFrame(history.history)
 
 print('000000000000000000')
@@ -86,8 +83,8 @@ print('000000000000000000')
 print(hist)
 plt.style.use("ggplot")
 plt.figure(figsize=(30, 30,), )
-# todo probar un f1 con el test set
-plt.plot(hist["crf_viterbi_accuracy"])
-plt.plot(hist["val_crf_viterbi_accuracy"])
+
+plt.plot(hist["loss"])
+plt.plot(hist["val_loss"])
 # plt.plot(hist)
 plt.show()

@@ -104,7 +104,3 @@ if __name__ == '__main__':
 	pred = crf.predict(w_test_f)
 
 	print(f1_score(t_test, pred, average='weighted'))
-	# todo instalar word2vec para tirar los embeddings en crf y en redes
-	# todo falta evaluar el modelo, ver una learning curve
-	# todo hacer un clasification report con el test set
-	# todo entrenar con el corpus de ronald

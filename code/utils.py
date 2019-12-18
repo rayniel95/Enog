@@ -105,7 +105,12 @@ def to_tags(vectors, tags_index: dict):
 			sent.append(index2tags[list(vec).index(1.0)])
 		tags.append(sent)
 
-	return tags
+	new_tags = []
+
+	for el in tags:
+		new_tags.extend(el)
+
+	return new_tags
 
 
 
