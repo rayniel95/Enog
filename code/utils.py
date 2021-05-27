@@ -1,5 +1,8 @@
 from typing import List, Tuple, Dict, Any
+
+import keras
 import sklearn_crfsuite
+import numpy as np
 
 
 
@@ -112,6 +115,36 @@ def to_tags(vectors, tags_index: dict):
 
 	return new_tags
 
+
+def cross_val(model_maker, train: np.ndarray, target: list, cv=3, epochs=30,
+			  batch_size=32, validation_split=0.1):
+	model: keras.Model
+	num_validation_samples = len(train) // cv
+	validation_scores = []
+
+	for fold in range(cv):
+		validation_data = train[num_validation_samples * fold:
+							   num_validation_samples * (fold + 1)]
+		target_validation_data = target[num_validation_samples * fold:
+							   num_validation_samples * (fold + 1)]
+
+		training_data = train[:num_validation_samples * cv].tolist() + \
+			train[num_validation_samples * (cv + 1):].tolist()
+		training_data = np.array(training_data)
+
+		target_training_data = target[:num_validation_samples * cv] + \
+			target[num_validation_samples * (cv + 1):]
+
+		model = model_maker()
+		model.fit(training_data, np.array(target_training_data), epochs=epochs,
+				  batch_size=batch_size, validation_split=validation_split)
+
+		validation_score = model.evaluate(validation_data,
+										  np.array(target_validation_data))
+		validation_scores.append(validation_score)
+
+	return sum([el[0] for el in validation_scores]) / len(validation_scores), \
+		sum([el[1] for el in validation_scores]) / len(validation_scores)
 
 
 if __name__ == '__main__':

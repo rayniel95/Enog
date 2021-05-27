@@ -67,11 +67,12 @@ history = model.fit(x_tr, np.array(y_tr), batch_size=32, epochs=20,
 pred = model.predict(x_te)
 
 print('pppppppppppppppp')
-
+print(utils.cross_val(make_model, x_tr, y_tr))
 pred2 = utils.to_tags(pred, tag2dix)
 y_te2 = utils.to_tags(y_te, tag2dix)
 
 print(precision_score(y_te2, pred2, average='weighted'))
+print(f1_score(y_te2, pred2, average='weighted'))
 # f1: 94
 # precision: 98
 hist = pd.DataFrame(history.history)
@@ -82,7 +83,7 @@ print(hist)
 plt.style.use("ggplot")
 plt.figure(figsize=(30, 30,), )
 
-plt.plot(hist["loss"])
-plt.plot(hist["val_loss"])
+plt.plot(hist["crf_viterbi_accuracy"])
+plt.plot(hist["val_crf_viterbi_accuracy"])
 # plt.plot(hist)
 plt.show()

@@ -1,0 +1,3037 @@
+[
+    [
+        "Miembros de los ( Comités de Defensa de la Revolución ) en CDR significaron durante un barrio debate sobre las pretensiones de la Las Tunas , que esta ciudad primero será quemada antes de que esclava.",
+        {
+            "entities": [
+                [
+                    18,
+                    53,
+                    "ORG"
+                ],
+                [
+                    59,
+                    62,
+                    "ORG"
+                ],
+                [
+                    130,
+                    139,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Al evocar esta frase que preside el escudo de la ciudad , expresaron que si en momentos tan difíciles durante la guerra contra Ley Helms Burton , el mayor General España decidió prenderle candela a la comarca para que no cayera en manos de la metrópoli , ahora el pueblo está dispuesto a hacer lo mismo si la administración de Vicente García osa poner los pies sobre esta tierra.",
+        {
+            "entities": [
+                [
+                    127,
+                    143,
+                    "LAW"
+                ],
+                [
+                    163,
+                    169,
+                    "GPE"
+                ],
+                [
+                    327,
+                    341,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "En la noche de este sábado , el doctor Donald Trump dijo a los residentes de la zona 22 de los Ricardo Alarcón de Quesada , estar convencido de que los CDR harían lo mismo que su patriota insigne si fuera necesario , pero con más trabajo , cohesión y unidad , el fuego lo recibirían quienes sueñan despojar al pueblo de sus propiedades.",
+        {
+            "entities": [
+                [
+                    39,
+                    51,
+                    "PER"
+                ],
+                [
+                    95,
+                    121,
+                    "PER"
+                ],
+                [
+                    152,
+                    155,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "tuneros precisó , que buscando en Internet , encontró que de Alarcón ya reclaman a Las Tunas ( otrora finca propiedad de la familia Nápoles - Fajardo ) y ahora funciona un motel construido por la Revolución y sede de las tradicionales El Cornito , así como también el Jornadas Cucalambeanas , anteriormente potreros sin ningún uso social o económico.",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "NORP"
+                ],
+                [
+                    61,
+                    68,
+                    "PER"
+                ],
+                [
+                    83,
+                    92,
+                    "GPE"
+                ],
+                [
+                    235,
+                    245,
+                    "LOC"
+                ],
+                [
+                    268,
+                    290,
+                    "EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los nombres de esos lugares y otros más mencionados por el profesor jardín botánico y el historiador de la ciudad de Eugenio Ramos Las Tunas , causaron risas a los presentes por lo absurdo y el desconocimiento que tienen sobre la decisión de los Víctor Marrero de no ceder las propiedades y defender la patria al precio que sea necesario.",
+        {
+            "entities": [
+                [
+                    68,
+                    83,
+                    "LOC"
+                ],
+                [
+                    117,
+                    130,
+                    "PER"
+                ],
+                [
+                    131,
+                    140,
+                    "GPE"
+                ],
+                [
+                    246,
+                    260,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Más asombro causó cuando cubanos narró que un hijo de un terrateniente expresó que determinada cantidad de viviendas en Alarcón son de su propiedad , que no pretende desalojar a quienes las habitan , pero tienen que pagar por los 60 años de alquiler.",
+        {
+            "entities": [
+                [
+                    25,
+                    32,
+                    "NORP"
+                ],
+                [
+                    120,
+                    127,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Como la gran mayoría de las tierras pertenecían a los grandes latifundios , cuántas escuelas , policlínicos , hospitales , círculos infantiles , hogares de ancianos se han construido en estos Cuba de Revolución , exclamaron varios asistentes al encuentro , en el cual se encontraba 60 años , primer secretario del Manuel Pérez Gallegos en la provincia , y Partido Comunista de Cuba , presidente de la Jaime Chiang Vega a ese nivel.",
+        {
+            "entities": [
+                [
+                    192,
+                    196,
+                    "GPE"
+                ],
+                [
+                    282,
+                    289,
+                    "DATETIME"
+                ],
+                [
+                    314,
+                    335,
+                    "PER"
+                ],
+                [
+                    356,
+                    381,
+                    "ORG"
+                ],
+                [
+                    401,
+                    418,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "La Asamblea del Poder Popular cederista explicó que la escuela donde impartió clases durante Xiomara Padrón , 25 años , era la vivienda de uno de los magnates de la 28 de diciembre , amigo del dictador Las Tunas , y seguidamente expresó : si algún descendiente de ese millonario pretende reclamar esa propiedad , le aconsejo que no lo haga , será en vano.",
+        {
+            "entities": [
+                [
+                    3,
+                    29,
+                    "ORG"
+                ],
+                [
+                    30,
+                    39,
+                    "NORP"
+                ],
+                [
+                    93,
+                    107,
+                    "PER"
+                ],
+                [
+                    110,
+                    117,
+                    "DATETIME"
+                ],
+                [
+                    162,
+                    180,
+                    "LOC"
+                ],
+                [
+                    202,
+                    211,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Soy muy joven , pero sé lo que ha significado Fulgencio Batista para el pueblo la Revolución , por eso convoco a cerrar filas , a exigirnos más a nosotros mismos para hacerle frente a cualquier tipo de agresión , subrayó cubano , presidente de la Alex Daniel Pacheco en la provincia.",
+        {
+            "entities": [
+                [
+                    46,
+                    63,
+                    "PER"
+                ],
+                [
+                    79,
+                    92,
+                    "EVENT"
+                ],
+                [
+                    221,
+                    227,
+                    "NORP"
+                ],
+                [
+                    247,
+                    266,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Para derrocar a Federación de Estudiantes de la Enseñanza Media el imperialismo ha buscado distintas variantes , ahora acuden a la asfixia económica mediante la aplicación del la Revolución de , pero veremos pasar el cadáver político de la actual administración , como las que la antecedieron , sostuvo título III la Ley Helms Burton.",
+        {
+            "entities": [
+                [
+                    16,
+                    63,
+                    "ORG"
+                ],
+                [
+                    176,
+                    189,
+                    "EVENT"
+                ],
+                [
+                    303,
+                    333,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nuestra batalla ahora es la de la economía como lo ha reiterado el Presidente de los Alarcón , Consejos de Estado y de Ministros , es lo que tenemos que ganar para quitarles las ilusiones a los que piensan retornar a Miguel Díaz Canel , reiteró.",
+        {
+            "entities": [
+                [
+                    85,
+                    92,
+                    "PER"
+                ],
+                [
+                    95,
+                    128,
+                    "ORG"
+                ],
+                [
+                    217,
+                    234,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "trae a La Opinión del Lector este comentario enviado    por Cubadebate , desde Alexis , a la información \" Granma : Debemos actuar como país para enfrentar y superar las dificultades \" , publicada como parte de nuestra cobertura a las sesiones de trabajo de las Comisiones Permanentes de la Díaz - Canel.",
+        {
+            "entities": [
+                [
+                    60,
+                    70,
+                    "ORG"
+                ],
+                [
+                    79,
+                    85,
+                    "PER"
+                ],
+                [
+                    107,
+                    113,
+                    "GPE"
+                ],
+                [
+                    291,
+                    303,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "  Asamblea Nacional del Poder Popular comentó : Muy contento con las magníficas reflexiones de nuestro presidente , estoy de acuerdo en que podemos producir mucho más alimento del que hoy se logra , y no solo porque no tengamos más áreas con riego , hay que cambiar la manera de pensar de muchos de los que hoy dirigen en la agricultura , hay que introducir los adelantos de la ciencia y la técnica , hay que buscar mayores rendimientos.",
+        {
+            "entities": [
+                [
+                    2,
+                    37,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Considero que uno de los aspectos que hoy frena un poco l;a producción de alimentos está relacionado con las bases productivas que hoy tenemos en la agricultura y su difícil situación económica , existe la política de mantener estas formas productivas , y yo creo que debieran mantenerse las que son eficientes , tenemos Alexis que por el nivel de endeudamientos que tienen con UBPC , este dice no poder seguir dándole créditos , y ahora se van para BANDEC , algunas con varios meses sin poder pagar salarios a sus trabajadores ; hay BPA que no usan créditos para no endeudarse pero tampoco se desarrollan ni aportan al desarrollo del país , hay CPA que ayudan muy poco a sus asociados en la gestión de los créditos y los insumos , cuyas juntas directivas cobran elevados salarios a costa de los productores sin ayudarlos en nada , y hay otras con juntas directivas muy buenas , con más de 300 socios que producen más de 100 mil qq de arroz que no tienen ni una bicicleta en qué moverse , y entonces los directivos del CCS arrocero tienen todo el transporte.",
+        {
+            "entities": [
+                [
+                    321,
+                    327,
+                    "PER"
+                ],
+                [
+                    378,
+                    382,
+                    "ORG"
+                ],
+                [
+                    450,
+                    456,
+                    "ORG"
+                ],
+                [
+                    534,
+                    537,
+                    "ORG"
+                ],
+                [
+                    646,
+                    649,
+                    "ORG"
+                ],
+                [
+                    1019,
+                    1022,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Entonces yo creo que si queremos cumplir con lo que nos ha pedido nuestro presidente de incrementar la producción de alimentos para sustituir importaciones tenemos que lograr que nuestras bases productivas sean fuertes y eficientes , tenemos que dotarlas de medios de transporte que le permitan a la dirección de estas hacer sus gestiones , pues son casi un empresa , que cuenten con la maquinaria necesaria para poder atender los cultivos etc. De acuerdo con el nuevo informe global de , en la actualidad las niñas , niños y adolescentes tienen más probabilidades de crecer sanos , recibir educación y estar protegidos.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Los resultados del reporte Construyendo una vida mejor con la niñez ” —publicado por Save the Children en el año de su Save the Children muestran que por lo menos 280 millones de niños y niñas tienen más probabilidades de crecer sanos , recibir educación y estar protegidos que en cualquier otro momento en las centenario-.",
+        {
+            "entities": [
+                [
+                    85,
+                    102,
+                    "ORG"
+                ],
+                [
+                    119,
+                    136,
+                    "ORG"
+                ],
+                [
+                    311,
+                    322,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Este informe últimas dos décadas evalúa a 176 países usando indicadores internacionales sobre mortalidad infantil , acceso a la educación , nutrición , protección frente a prácticas perjudiciales , como el trabajo infantil , el matrimonio infantil , los homicidios y el desplazamiento forzado.",
+        {
+            "entities": [
+                [
+                    13,
+                    32,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "En el ranking global , el país de anual y América Latina con mejor desempeño es el Caribe , seguido por Cuba y Chile.",
+        {
+            "entities": [
+                [
+                    34,
+                    39,
+                    "DATETIME"
+                ],
+                [
+                    42,
+                    56,
+                    "GPE"
+                ],
+                [
+                    80,
+                    89,
+                    "GPE"
+                ],
+                [
+                    104,
+                    108,
+                    "GPE"
+                ],
+                [
+                    111,
+                    116,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "El país con peor desempeño en la región por Barbados es tercer año consecutivo.",
+        {
+            "entities": [
+                [
+                    44,
+                    52,
+                    "GPE"
+                ],
+                [
+                    56,
+                    78,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Es el único país de la región que está entre los 30 últimos dentro del ranking.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "El siguiente país con el rendimiento más bajo es Guatemala , que es el 40º último.",
+        {
+            "entities": [
+                [
+                    49,
+                    58,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Honduras , Venezuela y Haití completan la parte inferior de la región.",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "GPE"
+                ],
+                [
+                    11,
+                    20,
+                    "GPE"
+                ],
+                [
+                    23,
+                    28,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "El Salvador , directora de Incidencia Política de Nancy Ramírez , afirmó que en Save the Children se han logrado progresos importantes a favor de la niñez y adolescencia , sin embargo , tenemos a la violencia como principal vulneración a sus derechos.",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "GPE"
+                ],
+                [
+                    50,
+                    63,
+                    "PER"
+                ],
+                [
+                    80,
+                    97,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Este flagelo sigue siendo una de las principales causas de muerte de niñas y niños en los últimos 20 años y América Latina , donde el Caribe fallecen 70 pequeños consecuencia del maltrato , alerta.",
+        {
+            "entities": [
+                [
+                    86,
+                    105,
+                    "DATETIME"
+                ],
+                [
+                    108,
+                    122,
+                    "GPE"
+                ],
+                [
+                    131,
+                    140,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ cada día , tras una de las guerras más destructivas de la historia de la humanidad , Hace cien años , fundadora de Eglantyne Jebb , redactó la Save the Children.",
+        {
+            "entities": [
+                [
+                    2,
+                    10,
+                    "DATETIME"
+                ],
+                [
+                    87,
+                    101,
+                    "DATETIME"
+                ],
+                [
+                    117,
+                    131,
+                    "PER"
+                ],
+                [
+                    145,
+                    162,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Declaración de los Derechos del Niño , se han logrado grandes avances , pero todavía hay millones de niños y niñas a los que se les sigue privando de su niñez ”.",
+        {
+            "entities": [
+                [
+                    0,
+                    36,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Hoy en día , las tasas de homicidios , de niños y niñas aumentaron un 8 por ciento en la región ” , afirmó Desde el año 2000.",
+        {
+            "entities": [
+                [
+                    2,
+                    12,
+                    "DATETIME"
+                ],
+                [
+                    109,
+                    126,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "informó hoy el cese de vínculos con las empresas de China que vendan armas a Estados Unidos , aparte de imponerles sanciones por atentar contra la soberanía y seguridad nacional.",
+        {
+            "entities": [
+                [
+                    52,
+                    57,
+                    "GPE"
+                ],
+                [
+                    77,
+                    91,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Según precisó Taiwán , vocero del Geng Shuang , ni el Gobierno ni las firmas de su país harán negocios o mantendrán lazos de cooperación con las Ministerio de Relaciones Exteriores implicadas en una acción considerada violatoria de las leyes internacionales.",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "GPE"
+                ],
+                [
+                    34,
+                    45,
+                    "PER"
+                ],
+                [
+                    145,
+                    180,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Reiteró , asimismo , que el envío de equipos bélicos a la isla también infringe seriamente las normas básicas sobre los nexos entre las distintas naciones del mundo , el principio de Una sola norteamericanas y lo estipulado al respecto en nuestros tres comunicados firmados por China y Beijing.",
+        {
+            "entities": [
+                [
+                    192,
+                    207,
+                    "NORP"
+                ],
+                [
+                    278,
+                    283,
+                    "GPE"
+                ],
+                [
+                    286,
+                    293,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Esta es la segunda contramedida del gigante Washington a la anunciada venta de tanques , sistemas antimisiles y aviones de guerra por más de dos mil millones de dólares a asiático.",
+        {
+            "entities": [
+                [
+                    44,
+                    54,
+                    "GPE"
+                ],
+                [
+                    171,
+                    179,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "El viernes Taiwán anunció las sanciones y anteriormente advirtió a Washington de no subestimar la determinación de la Cancillería a proteger la soberanía e integridad nacional.",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "GPE"
+                ],
+                [
+                    115,
+                    129,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "También alertó que pone bajo amenaza a la isla , pues aunque hasta ahora opta por la reunificación pacífica puede verse obligada a abandonar esa política.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "El tema China es considerado como uno de los más sensibles en las relaciones de Taiwán con China.",
+        {
+            "entities": [
+                [
+                    8,
+                    13,
+                    "GPE"
+                ],
+                [
+                    80,
+                    86,
+                    "GPE"
+                ],
+                [
+                    91,
+                    96,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "La comunidad internacional aprobó con 170 votos una resolución Estados Unidos que considera a la en 1971 el único representante legítimo ante las República Popular China y reconoce a la isla de Naciones Unidas como parte inalienable de esa nación Taiwán.",
+        {
+            "entities": [
+                [
+                    63,
+                    77,
+                    "GPE"
+                ],
+                [
+                    97,
+                    104,
+                    "DATETIME"
+                ],
+                [
+                    146,
+                    169,
+                    "GPE"
+                ],
+                [
+                    194,
+                    209,
+                    "ORG"
+                ],
+                [
+                    247,
+                    253,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Para avanzar hacia la completa reunificación del territorio nacional , asiática defiende también la política de Un país , dos sistemas , aplicado en las regiones administrativas de Beijing y Hong Kong.",
+        {
+            "entities": [
+                [
+                    71,
+                    79,
+                    "NORP"
+                ],
+                [
+                    181,
+                    188,
+                    "GPE"
+                ],
+                [
+                    191,
+                    200,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sin embargo , los dirigentes Macao se niegan a aceptar ese status.",
+        {
+            "entities": [
+                [
+                    29,
+                    34,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Estará nublado en la región occidental con numerosos chubascos , lluvias y tormentas eléctricas durante la tarde.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "En el resto del país amanecerá parcialmente nublado y se nublará en la tarde con algunos chubascos y tormentas eléctricas.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "El día será cálido con temperaturas máximas entre 31 y 34 grados Celsius , superiores en algunas localidades de la región oriental.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "En la noche las temperaturas alcanzarán valores entre 25 y 28 grados Celsius.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Los vientos serán variables débiles.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Habrá poco oleaje en el litoral norte oriental y desde hasta punta de Maisí.",
+        {
+            "entities": [
+                [
+                    61,
+                    75,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "En el resto de los litorales la mar permanecerá tranquila.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Con informaciòn del cabo Cruz.",
+        {
+            "entities": [
+                [
+                    20,
+                    29,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Previo al tercer periodo ordinario de sesiones de la , la IX Legislatura en Cuba se reunió hoy en comisiones permanentes de trabajo por tercer día consecutivo para analizar la realidad del país , su presente y futuro.",
+        {
+            "entities": [
+                [
+                    58,
+                    72,
+                    "EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Junto a los más de 600 diputados reunidos en el Asamblea Nacional del Poder Popular de Palacio de Convenciones estuvo el presidente de los La Habana , Consejos de Estado y de Ministros ,   quien no faltó a los debates cardinales de estas intensas jornadas.",
+        {
+            "entities": [
+                [
+                    48,
+                    83,
+                    "ORG"
+                ],
+                [
+                    87,
+                    110,
+                    "LOC"
+                ],
+                [
+                    139,
+                    148,
+                    "GPE"
+                ],
+                [
+                    151,
+                    184,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Todos los temas discutidos en estos días , a los que hay que darle seguimiento , nos dan para un amplio programa de trabajo para los Miguel Díaz Canel Bermúdez , reflexionó el diputado por el municipio de próximos meses.",
+        {
+            "entities": [
+                [
+                    133,
+                    159,
+                    "PER"
+                ],
+                [
+                    205,
+                    219,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hemos abordado más de 38 temas con acciones de alta fiscalización o respuesta a aspectos tratados en sesiones anteriores —informó— , que impactan a la población , que se acercan a los problemas del país.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "La sistematicidad y seguimiento a todos los problemas le da credibilidad y refuerza la confianza en la Santa Clara , aseguró el presidente.",
+        {
+            "entities": [
+                [
+                    103,
+                    114,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Asamblea dijo que si el trabajo de la Díaz - Canel , órgano de poder del pueblo , se acompaña con la acción de gobierno , se refuerza el concepto de que en nuestra ANPP se gobierna por y para el pueblo.",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "ORG"
+                ],
+                [
+                    38,
+                    50,
+                    "PER"
+                ],
+                [
+                    164,
+                    168,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "En la sala 3 , el mandatario cubano participa en la Revolución , donde se analizan los resultados del cumplimiento de la Comisión de Atención a los Servicios y la colaboración económica entre los Ley 118 de la Inversión Extranjera , Turismo , Comunicaciones y Transporte.",
+        {
+            "entities": [
+                [
+                    52,
+                    62,
+                    "EVENT"
+                ],
+                [
+                    121,
+                    157,
+                    "ORG"
+                ],
+                [
+                    196,
+                    230,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "ministerios de Comercio Interior recordó que dada la importancia de la inversión extranjera en el desarrollo del país es objeto de la aplicación del Díaz - Canel por parte del Título III de la Ley Helms - Burton.",
+        {
+            "entities": [
+                [
+                    0,
+                    32,
+                    "ORG"
+                ],
+                [
+                    149,
+                    161,
+                    "PER"
+                ],
+                [
+                    176,
+                    211,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "Reconoció con optimismo que “ son más evidentes las presiones que los efectos ” de la activación del gobierno estadounidense , “ porque las personas , las entidades que han apostado por la inversión extranjera en Título III se han mantenido firmes ”.",
+        {
+            "entities": [
+                [
+                    101,
+                    124,
+                    "NORP"
+                ],
+                [
+                    213,
+                    223,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ningún inversor hotelero se nos ha ido , insistió , aún cuando han sido presionados individualmente.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "  “ Y tiene que ver mucho con las potencialidades que tiene la inversión extranjera en Cuba ” , agregó.",
+        {
+            "entities": [
+                [
+                    87,
+                    91,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tiene que ver con los atractivos que tiene el país , con la seriedad de Cuba.",
+        {
+            "entities": [
+                [
+                    72,
+                    76,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nosotros tenemos deudas e impagos de dividendos con empresas extranjeras , que pasan por situaciones temporales , que tienen que ver con el recrudecimiento del bloqueo y la persecución financiera— , pero saben que la Revolución es seria y que mantiene sus compromisos de honrar sus deudas , por eso , siguen apostando por nuestro país.",
+        {
+            "entities": [
+                [
+                    214,
+                    227,
+                    "EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "La directora general de Inversión Extranjera en el Cuba , Mincex , expuso brevemente cómo se implementa este programa priorizado , “ motor impulsor de la economía ” , y las principales directrices de trabajo para atraer capital a la Isla en torno a los servicios —área de atención de la comisión— en el periodo Déborah Rivas Saavedra.",
+        {
+            "entities": [
+                [
+                    51,
+                    55,
+                    "GPE"
+                ],
+                [
+                    58,
+                    64,
+                    "ORG"
+                ],
+                [
+                    311,
+                    333,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sintetizó las acciones desarrolladas en la definición de la Política , la creación de un nuevo marco regulatorio —que incluye la Ley y sus normas complementarias— , así como la aprobación de incentivos y garantías , y la consolidación de la 2018 - 2019 , puerto físico y facilitador de la inversión extranjera.",
+        {
+            "entities": [
+                [
+                    241,
+                    252,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Zona Especial de Desarrollo Mariel aseguró que el interés de buscar el capital extranjero para contribuir al desarrollo no es un complemento , es parte esencial de la estrategia económica del país , con base en los Rivas Saavedra , y en el Lineamientos de la Política Económica y Social del PCC y la Revolución.",
+        {
+            "entities": [
+                [
+                    0,
+                    34,
+                    "LOC"
+                ],
+                [
+                    215,
+                    229,
+                    "PER"
+                ],
+                [
+                    240,
+                    310,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "Plan de Desarrollo 2030 tiene atractivos para el capital extranjero indiscutibles y sostenidos , aseveró la especialista.",
+        {
+            "entities": [
+                [
+                    0,
+                    23,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "Resaltó además como ventajas esenciales para el inversor en la Isla : la seguridad ciudadana y estabilidad política del país , con una idiosincrasia y cultura muy seductoras.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "  Mencionó como tareas pendientes para hacer eficientes las negociaciones con capital extranjero : la capacitación del personal que intervienen en los procesos , la simplificación de la documentación , agilizar los trámites , acortar los plazos de evaluación y aprobación.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "La funcionaria del Cuba aprovechó la oportunidad para solicitar la colaboración de los Mincex : “ Ustedes nos pueden ayudar a identificar quién demanda preparación , no solo técnica sino política , porque tenemos que aprender a decidir , defendiendo siempre los intereses del país ”.",
+        {
+            "entities": [
+                [
+                    19,
+                    23,
+                    "ORG"
+                ],
+                [
+                    87,
+                    93,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "A diputados cubanos entrará en funcionamiento la Ventanilla Única para la Inversión Extranjera fuera de la inicios del próximo año , que no solo será para inversionistas extranjeros , sino también para ofrecer facilidades a los nacionales , aclaró.",
+        {
+            "entities": [
+                [
+                    2,
+                    19,
+                    "NORP"
+                ],
+                [
+                    107,
+                    130,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "  La Cartera de Oportunidades no es solo para ZED Mariel , sino para todo país , insistió La Habana.",
+        {
+            "entities": [
+                [
+                    46,
+                    56,
+                    "LOC"
+                ],
+                [
+                    90,
+                    99,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Nos interesa mucho que cada uno de los diputados observe en su municipio qué proyecto de interés internacional está presente , que contribuya al control y fiscalización de su implementación , que nos alerte cuando sea necesario.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Cada cual en su localidad tiene que preocuparse y ocuparse de ello ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "El presidente Déborah destacó que , en las visitas gubernamentales a las provincias , siempre el cubano insiste en el desarrollo de las potencialidades que sean atractivas para la inversión extranjera a nivel local.",
+        {
+            "entities": [
+                [
+                    14,
+                    21,
+                    "PER"
+                ],
+                [
+                    97,
+                    103,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "¿ Por qué nosotros vamos a la inversión extranjera ? , se volvió a preguntar el presidente Consejo de Ministros este cubano.",
+        {
+            "entities": [
+                [
+                    91,
+                    111,
+                    "ORG"
+                ],
+                [
+                    117,
+                    123,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Porque necesitamos capital , tecnología , conocimiento para el crecimiento económico del país.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Pero debe haber inversión extranjera en sectores claves , en sectores priorizados que están muy bien definidos en la Ley , y siempre defendiendo soberanía , nunca se haría nada que comprometa la independencia del país ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "miércoles explicó a los parlamentarios , con claridad absoluta , cómo la inversión extranjera puede potenciar el desarrollo en Díaz - Canel y cómo todos los procesos se encadenan.",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "DATETIME"
+                ],
+                [
+                    127,
+                    139,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "El presidente se refirió al sector del Turismo , “ donde más inversión extranjera hay ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Comentó además que el turismo no es enemigo del país , al contrario , es de las fuentes de ingresos más estables que tenemos , con potencialidades para seguir desarrollándola.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ Por qué una parte importante de las medidas que ha tomado el Gobierno de Cuba.",
+        {
+            "entities": [
+                [
+                    75,
+                    79,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "para arreciar EE.UU y de la el bloqueo están orientadas a limitarnos el turismo , a impedir que vengan los Ley Helms - Burton a norteamericanos , a presionar a las agencias de viaje , porque saben que nos impactan ” , explicó.",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "GPE"
+                ],
+                [
+                    28,
+                    38,
+                    "EVENT"
+                ],
+                [
+                    107,
+                    125,
+                    "LAW"
+                ],
+                [
+                    128,
+                    143,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sobre el propio tema , Cuba , ministro de Turismo , dijo que hoy el país cuenta con 26 empresas mixtas en el sector , en las que predominan los contratos de administración y comercialización que garantizan la soberanía nacional y el ingreso de divisas.",
+        {
+            "entities": [
+                [
+                    23,
+                    27,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Se refirió así mismo a los retos en materia de captación de nuevos inversores y la identificación en cada territorio de nuevos atractivos turísticos.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Entre tanto Manuel Marrero Cruz , titular de Comercio Interior , expresó que , aunque se ha avanzado poco en el organismo que dirige , ya se creó la sociedad mercantil que permita la asociación con los inversores extranjeros.",
+        {
+            "entities": [
+                [
+                    12,
+                    31,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Adelantó también que la empresa Betsy Velázquez firmó contratos con usuarios de la Gran Comercial , lo que le permitirá , bajo el amparo de las nuevas prerrogativas , retener el 50 % de las divisas libremente convertibles y con esto sostener su infraestructura de almacenes.",
+        {
+            "entities": [
+                [
+                    32,
+                    47,
+                    "PER"
+                ],
+                [
+                    83,
+                    97,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Tenemos siete proyectos identificados para la colaboración.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Ya diseñamos un proyecto para la atención a las personas postradas , otro apuesta por el empaque de productos secos y un tercero se relaciona con la canastilla para incorporarle nuevos implementos ” , precisó.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Al comentar sobre la temática , Zona Especial de Desarrollo Mariel , ministro de Transporte , dijo que su sector tiene 6 negocios que comprenden la aviación , el transporte automotor y la actividad portuaria ; mientras que se trabaja en la concesión del Eduardo Rodríguez Dávila , y en un proyecto de rehabilitación de las líneas férreas.",
+        {
+            "entities": [
+                [
+                    32,
+                    66,
+                    "LOC"
+                ],
+                [
+                    254,
+                    278,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "A tener una mirada práctica con respecto a la sustitución de importaciones , sobre la base de las potencialidades de la industria nacional con productos competitivos y de calidad , fue el llamado que hizo durante esta jornada el ministro de Economía y Planificación ( aeropuerto José Martí ) , MEP , durante los debates que sostuvieron los diputados de la comisión de Asuntos Económicos de la Alejandro Gil Fernández.",
+        {
+            "entities": [
+                [
+                    268,
+                    289,
+                    "LOC"
+                ],
+                [
+                    294,
+                    297,
+                    "ORG"
+                ],
+                [
+                    393,
+                    416,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Hemos estado importado por encima de las posibilidades de la economía.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Muestra de ello son los altos niveles de endeudamiento que tenemos.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Hay que obligatoriamente disminuir este indicador y que eso no conduzca a una contracción económica ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ Muchas veces escuchamos que un producto sustituye importaciones ; sin embargo , es oportuno preguntarnos para hablar de sustitución efectiva , si éste tiene calidad y precio adecuado en comparación con el mercado internacional ” , sostuvo.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Al comentar sobre la disponibilidad monetaria para respaldar a la industria nacional dijo que esta tendrá prioridad.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ En ocasiones sucede que no llega la divisa al sector empresarial , pero los organismos exportadores sí la tienen y prefieren importar los bienes.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Es por eso que hay que crear las condiciones financieras para que las entidades tengan esa posibilidad ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Reconoció que , en las condiciones actuales de la economía , matizada por la dualidad cambiaria y la sobreevaluación de la moneda nacional , se incentiva la mentalidad importadora.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ Debemos proteger la industria nacional , la cual nos da soberanía , seguridad y genera empleo y alto valor agregado que garantiza una buena remuneración para nuestra población.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "La mentalidad importadora afecta la creatividad y limita la búsqueda de soluciones ” , sentenció.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Demandó en este sentido respaldar con producciones y no solo con voluntad , la política.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ Hay que ponerle rigor a la producción nacional , si ponemos dinero en la industria y esta no cumple , no hay dinero para importar ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Hizo referencia a la necesidad de lograr encadenamientos productivos que generen sinergia dentro de la nación , en consonancia con la mirada colectiva que impone mayores tasas de crecimiento.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ Estamos buscando que una parte de la liquidez que se genere en el país por las exportaciones se pueda drenar a lo interno de la economía.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Aspiramos lograr un ciclo en el que se le pueda pagar al productor nacional , producir , reaprovisionar y volver a producir.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Ejemplo de ello es el Asamblea Nacional o la propia Ministerio del Turismo ” , comentó.",
+        {
+            "entities": [
+                [
+                    22,
+                    39,
+                    "ORG"
+                ],
+                [
+                    52,
+                    74,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Ese es el debate de cara al plan 2020 : Disminuir importaciones y aumentar la producción nacional.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "No mirar del morro pa ' afuera ” , concluyó.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Entendida como la producción de bienes y servicios que pueden realizarse por entidades nacionales , “ con calidad aceptada y precios competitivos referente a la divisa y que garantiza la utilización de las capacidades existentes y disminuyen su compra en el mercado internacional ” , la sustitución de importaciones es clave hoy en la economía nacional.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Al decir de Zona Especial de Desarrollo Mariel , viceministra del Mara Ramos Lemus , en el MEP este concepto no se trabajó en las indicaciones metodológicas para la elaboración del plan , hecho que limitó su efectividad.",
+        {
+            "entities": [
+                [
+                    12,
+                    46,
+                    "LOC"
+                ],
+                [
+                    66,
+                    82,
+                    "PER"
+                ],
+                [
+                    91,
+                    94,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Preliminarmente se evaluó las capacidades disponibles en las industrias , las demandas recibidas y el impacto en el ahorro en USD en una selección de bienes.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Los principales destinos de los productos fueron el año 2019 y las tiendas Ministerio del Turismo y Cimex ”.",
+        {
+            "entities": [
+                [
+                    52,
+                    60,
+                    "DATETIME"
+                ],
+                [
+                    75,
+                    97,
+                    "ORG"
+                ],
+                [
+                    100,
+                    105,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Según informó la funcionaria , 68 productos fueron seleccionados para este cometido en el año , sin embargo , de los 54 planificados hasta Caribe , solo se logró cumplir 34.",
+        {
+            "entities": [
+                [
+                    139,
+                    145,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ De un plan de ahorro anual de 183 millones de pesos , hasta mayo solo se han ejecutado 41,4 millones para un 26 % de la desagregación del plan ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Explicó que para las mayo se planificó la entrega por la industria nacional 149 productos genéricos , de los cuales solo se cumplió el 89 %.",
+        {
+            "entities": [
+                [
+                    21,
+                    25,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ante esta situación , Cadenas de Tiendas Cimex y Caribe , esbozó que para el Ramos Lemus se priorizará la asignación de recursos financieros y materiales a la industria nacional en virtud de lograr el máximo aprovechamiento de las capacidades existentes , se incluirá en el plan de la economía el capítulo de sustitución de importaciones , a la vez que se potenciará la año 2020 para conocer las potencialidades existentes.",
+        {
+            "entities": [
+                [
+                    22,
+                    55,
+                    "ORG"
+                ],
+                [
+                    77,
+                    88,
+                    "PER"
+                ],
+                [
+                    370,
+                    378,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "\" Nos tomamos la seguridad y la privacidad de nuestros clientes con extrema seriedad.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Hemos concluido que desactivar la aplicación era la decisión correcta ya que este error de software podría permitir que alguien escuchase sin permiso el iPhone de otro cliente \" , indicó en un comunicado.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "La empresa , que aseguró no tener constancia de que nadie haya usado la  vulnerabilidad para espiar conversaciones ajenas , pidió disculpas a los usuarios por las molestias causadas y prometió reactivar la función de walkie - talkie \" tan pronto como sea posible \".",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "La aplicación de walkie - talkie fue añadida al reloj inteligente en septiembre pasado con el nuevo sistema operativo Apple 5 y permite que dos usuarios que previamente hayan aceptado sendas invitaciones puedan enviar y recibir mensajes de voz al pulsar un botón para hablar , tal y como operan los walkie - talkies tradicionales.",
+        {
+            "entities": [
+                [
+                    118,
+                    123,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "watchOS , la firma que dirige En enero también tuvo que desactivar temporalmente la función de llamadas de grupo en el Tim Cook mediante FaceTime ( la modalidad que permite videoconferencias entre más de dos interlocutores )  al haber detectado una vulnerabilidad similar en el software.",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "PRODUCT"
+                ],
+                [
+                    30,
+                    38,
+                    "DATETIME"
+                ],
+                [
+                    119,
+                    127,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "El error hacía que cuando un usuario de iPhone llamaba a otras personas en el modo de grupo , este pudiese escuchar lo que se estaba diciendo antes de que los participantes en la conversación le aceptasen.",
+        {
+            "entities": [
+                [
+                    40,
+                    46,
+                    "PRODUCT"
+                ]
+            ]
+        }
+    ],
+    [
+        "En esa ocasión , fue un joven de 14 años de iPhone ( Arizona.",
+        {
+            "entities": [
+                [
+                    44,
+                    50,
+                    "PRODUCT"
+                ],
+                [
+                    53,
+                    60,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        ") quien descubrió  el error cuando llamó a unos amigos a través de EE.UU , tras lo cual su madre se puso en contacto con la empresa , y FaceTime tardó unos días hasta volver a activar el servicio Apple.",
+        {
+            "entities": [
+                [
+                    67,
+                    72,
+                    "GPE"
+                ],
+                [
+                    136,
+                    144,
+                    "PRODUCT"
+                ],
+                [
+                    196,
+                    201,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "En un encuentro con la prensa tras la sesión de la , Comisión de Relaciones Internacionales del Parlamento , director general para Carlos Fernández de Cossío de la Cancillería , dijo Estados Unidos que el este lunes ha enrumbado su política hacia gobierno norteamericano en un curso de hostilidad que busca , por diferentes vías , hacer “ que la vida del cubano se haga lo más dura posible ” y , a la vez , poner obstáculos al apoyo en ese país a una relación más respetuosa y civilizada entre ambas naciones.",
+        {
+            "entities": [
+                [
+                    53,
+                    106,
+                    "ORG"
+                ],
+                [
+                    131,
+                    157,
+                    "PER"
+                ],
+                [
+                    183,
+                    197,
+                    "GPE"
+                ],
+                [
+                    205,
+                    215,
+                    "DATETIME"
+                ],
+                [
+                    247,
+                    270,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cuba dijo haber hablado a los diputados sobre el contexto actual de las relaciones entre Cossío y Cuba , “ que están en un estado que no se puede considerar positivo.",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "GPE"
+                ],
+                [
+                    89,
+                    95,
+                    "PER"
+                ],
+                [
+                    98,
+                    102,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Basta con observar las declaraciones cotidianas de quienes tienen responsabilidad en la política exterior de Estados Unidos.",
+        {
+            "entities": [
+                [
+                    109,
+                    123,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "para darse cuenta de que , sobre la base de la mentira , en muchas ocasiones sobre la base de la fabricación de pretextos , buscan siempre un sentido de hostilidad hacia nuestro país ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "El director general para EE.UU de la Cancillería señaló que el pueblo conoce la aplicación de medidas adicionales de bloqueo económico , “ con lo que buscan el propósito perseguido durante décadas : asfixiar la economía cubana , causar daño al nivel de vida de la población , y , si fuera posible , afectar los financiamientos que requiere Cuba para el desarrollo e interrumpir las fuentes de suministros para la economía ; interrumpir o entorpecer los procesos productivos y dañar los servicios sociales de los que depende la población … En resumen , que la vida del cubano se haga lo más dura posible ”.",
+        {
+            "entities": [
+                [
+                    25,
+                    30,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Se trata , dijo , de “ poner obstáculos a las transformaciones que está llevando a cabo el país con el propósito de alcanzar un desarrollo socialista , próspero y sostenible para nuestra población , cambiando lo que tenga que ser cambiado , como dice el concepto del Comandante en Jefe , pero , además , sobre la base del diseño que nuestro país ya ha hecho y los principios que ha abrazado en su conceptualización del modelo socialista ”.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Estados Unidos precisó que , hasta el momento , no ha tenido éxito ninguna de las demandas que se han presentado contra algún inversionista extranjero con intereses en Cossío , amparadas en la Cuba.",
+        {
+            "entities": [
+                [
+                    0,
+                    14,
+                    "GPE"
+                ],
+                [
+                    168,
+                    174,
+                    "PER"
+                ],
+                [
+                    193,
+                    197,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "El rechazo a la Ley Helms - Burton “ es tan viejo como la propia ley , que se aplica en su totalidad Helms - Burton.",
+        {
+            "entities": [
+                [
+                    16,
+                    34,
+                    "LAW"
+                ],
+                [
+                    101,
+                    115,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "Desde entonces , ha habido rechazo de la comunidad internacional , con más fuerza en aquellos países que más intercambio tienen con desde 1996 , en particular los que se han opuesto a la aplicación del Cuba y el Título III de esa legislación ”.",
+        {
+            "entities": [
+                [
+                    132,
+                    142,
+                    "DATETIME"
+                ],
+                [
+                    202,
+                    206,
+                    "GPE"
+                ],
+                [
+                    212,
+                    222,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "En ese sentido , recordó que desde los Título IV se vio un rechazo más pronunciado de los países años noventa y europeos , y de latinoamericanos , porque eran los que mayor intercambio tenían con Canadá.",
+        {
+            "entities": [
+                [
+                    39,
+                    48,
+                    "LAW"
+                ],
+                [
+                    97,
+                    109,
+                    "DATETIME"
+                ],
+                [
+                    112,
+                    120,
+                    "NORP"
+                ],
+                [
+                    128,
+                    144,
+                    "NORP"
+                ],
+                [
+                    196,
+                    202,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Lo cierto es que Cuba , en su conjunto , es rechazado anualmente , de manera casi unánime , en las el bloqueo económico , como sucederá otra vez Naciones Unidas.",
+        {
+            "entities": [
+                [
+                    19,
+                    23,
+                    "GPE"
+                ],
+                [
+                    101,
+                    121,
+                    "EVENT"
+                ],
+                [
+                    147,
+                    162,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Más recientemente , a raíz de las medidas adicionales que ha adoptado el gobierno de este año , es cierto que ante embajadas de Washington.",
+        {
+            "entities": [
+                [
+                    85,
+                    93,
+                    "DATETIME"
+                ],
+                [
+                    128,
+                    138,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "y algunos de sus consulados en varios países , pero también en pronunciamientos de parlamentos y políticos , se ha expresado el rechazo de la comunidad internacional a la política de EE.UU ” , refirió Estados Unidos.",
+        {
+            "entities": [
+                [
+                    183,
+                    188,
+                    "GPE"
+                ],
+                [
+                    201,
+                    215,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Cossío se aísla cada vez más al aplicar a Estados Unidos sanciones unilaterales , que tienen un efecto extraterritorial , fuera de las fronteras Cuba , en la jurisdicción de otros países ” , subrayó.",
+        {
+            "entities": [
+                [
+                    2,
+                    8,
+                    "PER"
+                ],
+                [
+                    44,
+                    58,
+                    "GPE"
+                ],
+                [
+                    147,
+                    151,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "En el campo de la política exterior , hay un reconocimiento al esfuerzo que hace cubanas.",
+        {
+            "entities": [
+                [
+                    81,
+                    88,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Como fruto de la trayectoria histórica de la política exterior de Cuba , nuestro país tiene hoy relaciones de amistad , y en muchos casos de cooperación , con prácticamente todos los países del mundo.",
+        {
+            "entities": [
+                [
+                    68,
+                    72,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Donde único nosotros tenemos un desafío de envergadura es con los la Revolución Cubana , que aplica contra Estados Unidos una política que es ilegítima , rechazada por la comunidad internacional y que busca , justamente , coartar los esfuerzos de desarrollo y de beneficio para la Cuba ” , destacó el alto funcionario.",
+        {
+            "entities": [
+                [
+                    66,
+                    86,
+                    "EVENT"
+                ],
+                [
+                    107,
+                    121,
+                    "GPE"
+                ],
+                [
+                    281,
+                    285,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Nosotros , como parte de nuestras relaciones , recibimos cooperación de países que intercambian con población cubana legítimamente y que participan , o están dispuestos a participar , en el desarrollo de la Isla.",
+        {
+            "entities": [
+                [
+                    102,
+                    118,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "Es desde Cuba desde donde recibimos una hostilidad contra lo que queremos hacer legítimamente ” , recalcó.",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "En otro momento , Estados Unidos apuntó el hecho de que la mayoría del pueblo de los Cossío.",
+        {
+            "entities": [
+                [
+                    18,
+                    32,
+                    "GPE"
+                ],
+                [
+                    85,
+                    91,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "prefiere una mejor relación con la nación caribeña.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ No estamos diciendo que la mayoría de la población coincida ideológica o políticamente con lo que hacemos en EE.UU , como estoy seguro de que no coincide con otros muchos países , pero prefieren , y lo han demostrado con acciones y con la cantidad de Cuba dispuestos a viajar a nuestro país , a pesar de las limitaciones , que prefieren una relación respetuosa y civilizada con estadounidenses , como lo prefiere la mayoría de los Cuba que han decidido residir en los cubanos ”.",
+        {
+            "entities": [
+                [
+                    111,
+                    116,
+                    "GPE"
+                ],
+                [
+                    253,
+                    257,
+                    "GPE"
+                ],
+                [
+                    380,
+                    395,
+                    "NORP"
+                ],
+                [
+                    433,
+                    437,
+                    "GPE"
+                ],
+                [
+                    470,
+                    477,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "En ese sentido , dijo que la tendencia es a favor de un mejor entendimiento y una mejor relación , algo que los políticos actuales , que están en el gobierno de Estados Unidos.",
+        {
+            "entities": [
+                [
+                    161,
+                    175,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        ", se proponen frenar poniendo la mayor cantidad de obstáculos posible.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ Eso , en cierta medida , explica la EE.UU , un propósito de poner obstáculos a la tendencia de acercamiento entre los dos países ” , afirmó.",
+        {
+            "entities": [
+                [
+                    38,
+                    43,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Y concluyó : “ ¿ Por qué el gobierno de Ley Helms - Burton.",
+        {
+            "entities": [
+                [
+                    40,
+                    58,
+                    "LAW"
+                ]
+            ]
+        }
+    ],
+    [
+        "actúa de esa manera si no refleja el sentimiento mayoritario de los EE.UU y de los estadounidenses que residen en ese país ? Esa es una pregunta que habría que hacerle al cubanos , y a la concepción de la democracia que pueda haber en ese país ”.",
+        {
+            "entities": [
+                [
+                    68,
+                    73,
+                    "GPE"
+                ],
+                [
+                    83,
+                    98,
+                    "NORP"
+                ],
+                [
+                    171,
+                    178,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "En , la tercera parte de los responsables de ataques en escuelas , templos o establecimientos a nivel nacional el Estados Unidos tenían antecedentes de violencia doméstica grave , dos terceras partes padecían problemas mentales y casi todos expresaron amenazas o mensajes que inquietaron a otros antes de que ocurrieran los actos , de acuerdo a un reporte del Servicio Secreto sobre tiroteos masivos.",
+        {
+            "entities": [
+                [
+                    114,
+                    128,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "El año pasado estudió 27 incidentes en lugares públicos en los que fallecieron un total de 91 personas y otras 107 resultaron heridas Servicio Secreto.",
+        {
+            "entities": [
+                [
+                    3,
+                    13,
+                    "DATETIME"
+                ],
+                [
+                    134,
+                    150,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Entre los eventos analizados se incluyen la masacre en la escuela secundaria en 2018 , Marjory Stoneman Douglas de Parkland , en la que hubo 17 muertos y 17 heridos , y el ataque en la Florida de Sinagoga Tree of Life.",
+        {
+            "entities": [
+                [
+                    77,
+                    84,
+                    "DATETIME"
+                ],
+                [
+                    87,
+                    123,
+                    "LOC"
+                ],
+                [
+                    185,
+                    192,
+                    "GPE"
+                ],
+                [
+                    196,
+                    217,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "El reporte analizó el momento , las armas utilizadas , los lugares y los factores estresantes del atacante , además de los eventos previos al incidente , en un intento por entender de mejor manera cómo se perpetraron los atentados y cómo prevenirlos.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Miembros del Pittsburgh , que realizaron el estudio , presentaron sus conclusiones a la policía y a funcionarios escolares y de seguridad pública durante un seminario realizado el Centro de Evaluación de Amenazas Nacionales del Servicio Secreto.",
+        {
+            "entities": [
+                [
+                    13,
+                    23,
+                    "GPE"
+                ],
+                [
+                    180,
+                    244,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Queremos que la comunidad sepa que la prevención es responsabilidad de todos y no sólo de las autoridades ” , dijo martes , directora del centro.",
+        {
+            "entities": [
+                [
+                    117,
+                    123,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Otros incidentes analizados incluyen el de un hombre que condujo su camioneta hacia una clínica de Lina Alathari en Planned Parenthood que dejó a tres personas heridas , y el de un hombre que mató a dos personas en un despacho legal y a una más en un consultorio psiquiátrico Nueva Jersey.",
+        {
+            "entities": [
+                [
+                    99,
+                    112,
+                    "PER"
+                ],
+                [
+                    116,
+                    134,
+                    "LOC"
+                ],
+                [
+                    276,
+                    288,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "El criterio para ser parte del estudio eran incidentes en espacios públicos en los que hubiera al menos tres personas lesionadas.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "La mayoría de los atacantes eran hombres , de entre 15 y 64 años de edad.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Los antecedentes de violencia doméstica a menudo incluían incidentes de gravedad.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Aunque el 67 % padecían problemas mentales , solo 44 % de ellos contaban con un diagnóstico o un tratamiento.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "La mayoría de los ataques ocurrieron entre semana.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Solo uno fue en en junio.",
+        {
+            "entities": [
+                [
+                    16,
+                    24,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "En cuanto a los motivos , más de la mitad de los responsables tenía rencor hacia un cónyuge o familiar , o una disputa personal o laboral.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Se desconoce el motivo del 22 % de los incidentes analizados.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "En casi la mitad de los casos , el agresor aparentemente tenía un objetivo predeterminado.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        ", el Este jueves aprobó un impuesto a las grandes empresas de tecnología ( la conocida como “ tasa Senado de Francia ” ) , lo que podría abrir un nuevo frente en la disputa comercial entre Google y la Washington.",
+        {
+            "entities": [
+                [
+                    5,
+                    16,
+                    "DATETIME"
+                ],
+                [
+                    99,
+                    116,
+                    "ORG"
+                ],
+                [
+                    189,
+                    195,
+                    "ORG"
+                ],
+                [
+                    201,
+                    211,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "El gravamen del 3 % se aplicará a los ingresos procedentes de los servicios digitales suministrados en Unión Europea por empresas que generen un volumen de negocio superior a los 25 millones de euros en el mercado galo y 750 millones en todo el mundo.",
+        {
+            "entities": [
+                [
+                    103,
+                    116,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Una vez en vigor , tendrá efectos retroactivos desde Francia.",
+        {
+            "entities": [
+                [
+                    53,
+                    60,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "El presidente de principios de 2019 , Estados Unidos , ordenó el miércoles abrir una investigación sobre el gravamen , un paso que podría llevar a Donald Trump a imponer nuevos aranceles u otras restricciones comerciales.",
+        {
+            "entities": [
+                [
+                    17,
+                    35,
+                    "DATETIME"
+                ],
+                [
+                    38,
+                    52,
+                    "GPE"
+                ],
+                [
+                    147,
+                    159,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Entre aliados , podemos y debemos resolver nuestras disputas no mediante amenazas , sino a través de otras vías ” , dijo a los senadores el ministro de Finanzas francés , Estados Unidos , antes de la votación final.",
+        {
+            "entities": [
+                [
+                    173,
+                    187,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "“ Bruno Le Maire es un país soberano , sus decisiones en materia fiscal son soberanas y seguirán siéndolo ”.",
+        {
+            "entities": [
+                [
+                    2,
+                    16,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Francia siguió adelante con la “ tasa Francia ” después de que los países de la Google no lograron acordar un impuesto único para todo el bloque ante la oposición de UE , Irlanda , Dinamarca y Suecia.",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "GPE"
+                ],
+                [
+                    38,
+                    45,
+                    "GPE"
+                ],
+                [
+                    80,
+                    86,
+                    "ORG"
+                ],
+                [
+                    166,
+                    168,
+                    "ORG"
+                ],
+                [
+                    171,
+                    178,
+                    "GPE"
+                ],
+                [
+                    181,
+                    190,
+                    "GPE"
+                ],
+                [
+                    193,
+                    199,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los partidarios de la medida sostienen que se necesita un impuesto especial porque , con el sistema impositivo actual , las grandes multinacionales de Finlandia como Internet y Facebook pueden declarar sus beneficios en países con sistemas impositivos menos estrictos , sin importar de dónde provengan los ingresos.",
+        {
+            "entities": [
+                [
+                    151,
+                    160,
+                    "GPE"
+                ],
+                [
+                    166,
+                    174,
+                    "PRODUCT"
+                ],
+                [
+                    177,
+                    185,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "El representante de Comercio , estadounidense , y el secretario de Tesoro , Robert Lighthizer , conversaron el martes con sus homólogos Steven Mnuchin para intentar poner fin a la disputa comercial entre chinos y Washington.",
+        {
+            "entities": [
+                [
+                    31,
+                    45,
+                    "NORP"
+                ],
+                [
+                    76,
+                    93,
+                    "PER"
+                ],
+                [
+                    136,
+                    150,
+                    "PER"
+                ],
+                [
+                    204,
+                    210,
+                    "NORP"
+                ],
+                [
+                    213,
+                    223,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los dos representantes del gobierno de Pekín hablaron por teléfono con el vice primer ministro Donald Trump y el ministro Liu He de Comercio , chino , para \" continuar las negociaciones para resolver las cuestiones comerciales entre Zhong Shan y China \" , indicó el asesor económico de Estados Unidos , la Casa Blanca.",
+        {
+            "entities": [
+                [
+                    39,
+                    44,
+                    "GPE"
+                ],
+                [
+                    95,
+                    107,
+                    "PER"
+                ],
+                [
+                    122,
+                    128,
+                    "PER"
+                ],
+                [
+                    143,
+                    148,
+                    "NORP"
+                ],
+                [
+                    233,
+                    243,
+                    "PER"
+                ],
+                [
+                    246,
+                    251,
+                    "GPE"
+                ],
+                [
+                    286,
+                    300,
+                    "GPE"
+                ],
+                [
+                    303,
+                    317,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ambas partes coincidieron en la necesidad de seguir adelante con las conversaciones , dijo Larry Kudlow.",
+        {
+            "entities": [
+                [
+                    91,
+                    103,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "El asesor calificó las negociaciones como \" preliminares \" , durante una entrevista con Kudlow , indicando que las reuniones serán ' probablemente ' organizadas , sin dar más detalles.",
+        {
+            "entities": [
+                [
+                    88,
+                    94,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "El ministerio Fox News Business de Comercio confirmó esos intercambios telefónicos.",
+        {
+            "entities": [
+                [
+                    14,
+                    31,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "chino , Liu He y Lighthizer hablaron de \" la puesta en marcha del consenso alcanzado entre los jefes de Estado de los dos países en Mnuchin \" , durante la reciente Osaka en cumbre del G-20 , indicó el ministerio en un breve comunicado.",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "NORP"
+                ],
+                [
+                    8,
+                    14,
+                    "PER"
+                ],
+                [
+                    17,
+                    27,
+                    "PER"
+                ],
+                [
+                    132,
+                    139,
+                    "PER"
+                ],
+                [
+                    164,
+                    169,
+                    "GPE"
+                ],
+                [
+                    173,
+                    188,
+                    "EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Los presidentes Japón y Trump acordaron una tregua en su disputa comercial a base de aranceles , durante la cita en Xi Jinping a Osaka.",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "GPE"
+                ],
+                [
+                    24,
+                    29,
+                    "PER"
+                ],
+                [
+                    116,
+                    126,
+                    "PER"
+                ],
+                [
+                    129,
+                    134,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ambos decidieron retomar las negociaciones , interrumpidas en finales de junio porque , según mayo , Washington se había retractado en sus compromisos sobre las relaciones comerciales con Pekín.",
+        {
+            "entities": [
+                [
+                    62,
+                    78,
+                    "DATETIME"
+                ],
+                [
+                    94,
+                    98,
+                    "DATETIME"
+                ],
+                [
+                    101,
+                    111,
+                    "GPE"
+                ],
+                [
+                    188,
+                    193,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Estados Unidos levantó la amenaza de imponer nuevos aranceles a los productos Trump , que habrían afectado a la totalidad de los más de 500.000 millones de dólares comprados cada año por su país.",
+        {
+            "entities": [
+                [
+                    0,
+                    14,
+                    "GPE"
+                ],
+                [
+                    78,
+                    83,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "\" Tenemos una expectativa muy fuerte , y lo quiero subrayar , de que chinos en muy corto tiempo , quizás inmediatamente , va a comenzar a comprar productos agrícolas China \" , dijo estadounidenses en la televisión.",
+        {
+            "entities": [
+                [
+                    69,
+                    75,
+                    "NORP"
+                ],
+                [
+                    166,
+                    171,
+                    "GPE"
+                ],
+                [
+                    181,
+                    196,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "La reapertura de los diálogos comerciales entre Kudlow y Estados Unidos representan importante y simbólico paso , afirmaron analistas.",
+        {
+            "entities": [
+                [
+                    48,
+                    54,
+                    "PER"
+                ],
+                [
+                    57,
+                    71,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "\" Es un acontecimiento simbólico pero muy importante porque ayuda a restablecer la confianza del mercado en un período difícil \" , dijo a China , economista especializado en comercio internacional de la Xinhua Carlo Altomonte.",
+        {
+            "entities": [
+                [
+                    138,
+                    143,
+                    "GPE"
+                ],
+                [
+                    203,
+                    225,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pero la reapertura de las conversaciones no significa que un acuerdo esté cerca , acotó Universidad Bocconi de Milán , vicepresidente del Ettore Greco , un laboratorio de ideas.",
+        {
+            "entities": [
+                [
+                    88,
+                    116,
+                    "LOC"
+                ],
+                [
+                    138,
+                    150,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "\" Este es un nuevo comienzo para un largo proceso \" , dijo Instituto de Asuntos Internacionales a Greco.",
+        {
+            "entities": [
+                [
+                    59,
+                    95,
+                    "ORG"
+                ],
+                [
+                    98,
+                    103,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "La última ronda de conversaciones comerciales entre Xinhua y China tuvo lugar en Estados Unidos en mayo , durante la cual la Administración Washington incrementó los aranceles adicionales en productos estadounidense por un valor de 200.000 millones de dólares , del 10 al 25 por ciento , lo que llevó a un estancamiento que duró hasta la reunión del chinos.",
+        {
+            "entities": [
+                [
+                    52,
+                    58,
+                    "PER"
+                ],
+                [
+                    61,
+                    66,
+                    "GPE"
+                ],
+                [
+                    81,
+                    95,
+                    "GPE"
+                ],
+                [
+                    140,
+                    150,
+                    "GPE"
+                ],
+                [
+                    201,
+                    215,
+                    "NORP"
+                ],
+                [
+                    350,
+                    356,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "Según el G20 , los principales negociadores comerciales de ambas partes sostuvieron una conversación telefónica el Ministerio de Comercio de China e intercambiaron opiniones sobre la implementación del consenso alcanzado por los dos jefes de Estado al margen de la martes cumbre del G20.",
+        {
+            "entities": [
+                [
+                    9,
+                    12,
+                    "EVENT"
+                ],
+                [
+                    115,
+                    146,
+                    "ORG"
+                ],
+                [
+                    265,
+                    271,
+                    "DATETIME"
+                ],
+                [
+                    272,
+                    286,
+                    "EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "El portal digital publicó este martes que existen motivos para preocuparse por la recuperación económica en Axios , luego de que el indicador de probabilidad de la Estados Unidos ( Reserva Federal ) de Fed , el cual predice la posible ocurrencia de una recesión , se ubicara en 32,9 por ciento Nueva York.",
+        {
+            "entities": [
+                [
+                    108,
+                    113,
+                    "ORG"
+                ],
+                [
+                    164,
+                    178,
+                    "GPE"
+                ],
+                [
+                    181,
+                    196,
+                    "LOC"
+                ],
+                [
+                    202,
+                    205,
+                    "LOC"
+                ],
+                [
+                    294,
+                    304,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "en junio pasado , directora de comunicaciones de la división Morgan Wealth Management del banco de inversión Morgan Stanley , escribió en una nota dirigida a sus clientes que , Lisa Shalett , cada vez que ese índice de la desde 1960 neoyorquina superó el 30 por ciento , se produjo luego recesión.",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "DATETIME"
+                ],
+                [
+                    177,
+                    189,
+                    "PER"
+                ],
+                [
+                    222,
+                    232,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "En ese documento citado por Axios , Shalett también señaló la relación oro - plata , la debilidad en las ventas de automóviles , vivienda , manufactura , ganancias y gastos de capital.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "“ Los modelos de probabilidad de recesión han entrado en el territorio de advertencia y puede ser inevitable ” , sostuvo.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "De acuerdo con el servicio de noticias y datos de mercados Markets Insider , la alerta de recesión se ha mantenido alta desde que la curva de rendimiento del Departamento del Tesoro se invirtió en marzo y luego nuevamente en Fed una.",
+        {
+            "entities": [
+                [
+                    225,
+                    232,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "Para calcular la probabilidad de recesión , el rastreador de la mayo utiliza específicamente la diferencia entre las tasas del Tesoro a 10 años y a tres meses.",
+        {
+            "entities": [
+                [
+                    64,
+                    68,
+                    "DATETIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Un diferencial negativo entre las dos ha precedido a todas las recesiones de la posguerra , y actualmente se encuentra negativo desde mayo , advirtió esa fuente.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "La curva de rendimiento invertida es vista como un indicador de una recesión económica pendiente , porque cuando las tasas de interés a corto plazo exceden las de largo plazo el sentimiento del mercado sugiere una perspectiva pobre a largo plazo , y se cree que los rendimientos ofrecidos por el ingreso fijo continuarán cayendo.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "El sitio digital de información financiera Fed de Nueva York apuntó que inversionistas de Market Watch observan con nerviosismo el reciente comportamiento de la curva , cuando la guerra comercial global de la administración de Wall Street socava la confianza empresarial y la actividad manufacturera.",
+        {
+            "entities": [
+                [
+                    43,
+                    60,
+                    "NORP"
+                ],
+                [
+                    90,
+                    102,
+                    "ORG"
+                ],
+                [
+                    227,
+                    238,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "La estratega de ingresos fijos , Donald Trump , declaró a esa página web que si la curva de rendimiento se mantiene invertida por un largo periodo , puede influir en el crecimiento económico debido a su efecto corrosivo en las ganancias corporativas.",
+        {
+            "entities": [
+                [
+                    33,
+                    45,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ello se debe a que llevaría a los bancos a evitar prestar dinero , restringiría el flujo de crédito y aumentaría los costos de los préstamos.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "De cualquier modo , muchos analistas argumentan que la lectura de la Leslie Falconio es un solo componente de un sistema de pronóstico de recesión más complejo , y ven los últimos informes de empleo como una señal de que la recuperación económica está funcionando bien.",
+        {
+            "entities": [
+                [
+                    69,
+                    84,
+                    "PER"
+                ]
+            ]
+        }
+    ]
+]
