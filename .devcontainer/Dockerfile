@@ -25,6 +25,12 @@ RUN export HTTP_PROXY="http://192.168.49.1:8282" \
 
 RUN pip3 install --proxy=http://192.168.49.1:8282 --no-cache-dir tensorflow==2.2.0
 RUN pip3 install --proxy=http://192.168.49.1:8282 --no-cache-dir ipykernel==5.5.5
+RUN export HTTP_PROXY="http://192.168.49.1:8282" \
+    && export http_proxy="http://192.168.49.1:8282" \
+    https_proxy="http://192.168.49.1:8282" \
+    && pip install --proxy=http://192.168.49.1:8282 --no-cache-dir git+https://www.github.com/keras-team/keras-contrib.git
+RUN pip3 install --proxy=http://192.168.49.1:8282 --no-cache-dir sklearn-crfsuite==0.3.6
+
 
 # TODO - install kite
 # TODO - install git y todas sus extensiones
